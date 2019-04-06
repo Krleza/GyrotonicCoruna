@@ -1,0 +1,2 @@
+[06-Jun-2018 08:22:16 UTC] PHP Fatal error:  Call to undefined function post_class() in /home/mireiafa/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[06-Jun-2018 08:24:10 UTC] PHP Fatal error:  Call to undefined function post_class() in /home/mireiafa/public_html/wp-includes/theme-compat/embed-content.php on line 13
